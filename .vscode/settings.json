@@ -1,0 +1,19 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "git.autofetch": true,
+  "search.useGlobalIgnoreFiles": true,
+  "workbencch.icontheme" : "beard-icon",
+  "files.autoSave": "afterDelay",
+  "editor.cursorBlinking": "expand",
+  "editor.Linkedintg" :true,
+  "workbench.colorTheme" :"One Dark Pro Darker",
+  "windo.zoomlevel" :1,
+  "workbench.editor.enablePreview": false,
+  "files.autoSave" :"afterDelay",
+  "files.autoSaveDelay": 3000,
+  "terminal.integrated.fontsize" : 14,
+  "editor.fontSize": 14,
+  "editor.renderLineHighlight": "all",
+  "editor.smoothScrolling":true,
+}
+  
